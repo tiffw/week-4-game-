@@ -1,0 +1,49 @@
+#numbers {
+    background: #379cf8;
+    padding-bottom: 2%;
+    width: 15%;
+    height: 20%;
+    color: white;
+    font-size: 125%;
+    text-align: center;
+}
+
+#yourNumber {
+	font-size: 185%; 
+	text-align: center;
+}
+
+#randomNumber {
+    background: #fee64e;
+    padding-bottom: 2%;
+    width: 15%;
+    height: 20%;
+    font-size: 125%;
+    text-align: center;
+}
+
+#match {
+	font-size: 185%; 
+	text-align: center;
+}
+
+.title h1 {
+	font-style: Helvetica, sans-serif;
+}
+
+#score {
+	padding-top: 20px;
+}
+
+.panel-primary {
+	background-color: #fd6378;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 4px;
+	border: none;
+}
+
+.panel {
+	border: none;
+}
+
